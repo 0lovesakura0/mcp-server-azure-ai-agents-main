@@ -3,8 +3,22 @@
 A Model Context Protocol (MCP) server that enables Claude Desktop to search your content using Azure AI services. Choose between Azure AI Agent Service (with both document search and web search) or direct Azure AI Search integration.
 
 ![demo](images/demo.gif)
+![ico](images/ico.ico)
+![svg](images/svg.svg)
+![webp.webp](images/webp.webp)
+![jpeg](images/jpeg.jpeg)
+![jpg](images/jpg.jpg)
+![png](images/png.png)
+
+![dmp](images/bmp.bmp)
+
 
 ---
+ 视频
+ <video src="images/feiji.mp4" controls>
+  您的浏览器不支持 video 标签。
+</video>
+--- 
 
 ## Overview
 
